@@ -5,7 +5,25 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/tags/academic/</loc>
+      <loc>http://siomlpi.mucilab.xyz/post/publications/</loc>
+      <lastmod>2017-11-26T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://siomlpi.mucilab.xyz/post/introduction/</loc>
+      <lastmod>2017-11-26T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://siomlpi.mucilab.xyz/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +32,7 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/publication/</loc>
+      <loc>http://siomlpi.mucilab.xyz/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +41,7 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/talk/</loc>
+      <loc>http://siomlpi.mucilab.xyz/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +50,7 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/talk/example-talk/</loc>
+      <loc>http://siomlpi.mucilab.xyz/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -41,7 +59,7 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/post/</loc>
+      <loc>http://siomlpi.mucilab.xyz/post/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -50,98 +68,7 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>http://siomlpi.mucilab.xyz/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -150,8 +77,7 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>http://siomlpi.mucilab.xyz/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,87 +86,18 @@
     
     <url>
     
-      <loc>https://siomlpi.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://siomlpi.github.io/tags/</loc>
+      <loc>http://siomlpi.mucilab.xyz/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://siomlpi.mucilab.xyz/</loc>
+      <lastmod>2017-11-26T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
