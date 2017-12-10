@@ -26,13 +26,13 @@
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -41,7 +41,6 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -999,7 +998,7 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .navbar-default .navbar-nav>li>a,
@@ -1317,6 +1316,7 @@ div.alert a:hover {
  **************************************************/
 
 body.dark {
+  background-color: rgb(40, 42, 54);
   color: rgb(248, 248, 242);
 }
 
